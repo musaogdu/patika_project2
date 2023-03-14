@@ -24,4 +24,4 @@ Dizi artık sıralı.
 
 Big-O gösterimi: O(n^2)
 
-Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
+Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer
